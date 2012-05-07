@@ -3,7 +3,9 @@
 Screenkey.ahk is a tool that displays the keys that you type on the screen.
 It can be useful for screencasts or remote help.
 
-You can run it as an [Autohotkey]http://www.autohotkey.com/) script or run the compiled exe directly.
+You can run it as an [Autohotkey](http://www.autohotkey.com/) script or run the compiled exe directly.
+
+![Demo](https://github.com/mihaifm/screenkey.ahk/raw/master/screenshot.png)
 
 ### Customization
 
