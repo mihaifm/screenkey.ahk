@@ -5,7 +5,7 @@ It can be useful for screencasts or remote help.
 
 You can run it as an [Autohotkey](http://www.autohotkey.com/) script or run the compiled exe directly.
 
-![Demo](https://github.com/mihaifm/screenkey.ahk/raw/master/screenshot.png)
+![screenshot](https://cloud.githubusercontent.com/assets/981184/5126844/7eb761e6-70d0-11e4-9ba9-136273490cab.png)
 
 ### Customization
 
